@@ -2,9 +2,9 @@
 
 **Effective date:** 11 November 2026
 
-This Privacy Policy explains how **jhjl** ("the app", "we", "us") handles
+This Privacy Policy explains how **JHJL's Blog** ("the app", "we", "us") handles
 information when you sign in with your Google Account and use the app. The app
-is operated by jhjl and is available at <https://jhjl.github.io>.
+is operated by J H J Loaring and is available at <https://jhjl.github.io>.
 
 ## Information the app accesses
 
@@ -13,11 +13,10 @@ following Google user data:
 
 | Data | Why it is needed |
 | --- | --- |
-| Your basic Google profile — name, email address and profile picture | To identify you and sign you in |
+| Your basic Google profile — name and email address | To identify you and sign you in |
 | Google Drive files that you create with, or explicitly open in, the app | To provide the app's core file functionality |
 
-The app only accesses Drive files you select or that it creates. It does not
-scan, index or read the rest of your Drive.
+The app only accesses Drive files.
 
 We do not ask for, and do not access, your password, contacts, calendar, Gmail,
 location, or payment information.
